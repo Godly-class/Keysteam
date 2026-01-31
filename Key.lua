@@ -47,7 +47,7 @@ tab:Button({
                 Icon = "check-circle"
             })
             KeyWin:Destroy()
-            loadstring(game:HttpGet("https://pastebin.com/raw/v4DkDbpU"))()
+            loadstring(game:HttpGet("https://pastebin.com/raw/bHn3V8xd"))()
             
         elseif inputKey == key2 then
             WindUI:Notify({
