@@ -57,7 +57,7 @@ tab:Button({
                 Icon = "check-circle"
             })
             KeyWin:Destroy()
-            loadstring(game:HttpGet("https://raw.githubusercontent.com/Godly-class/NovaHub/main/important%20script"))()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/Godly-class/NovaHub/refs/heads/main/important%20script.lua"))()
           
         else
             errorCount = errorCount + 1
